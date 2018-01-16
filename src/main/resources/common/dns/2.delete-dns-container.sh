@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-docker stop dnsmasq
-docker rm dnsmasq
+docker stop kraydel-dns
+docker rm kraydel-dns
